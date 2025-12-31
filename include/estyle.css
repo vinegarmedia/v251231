@@ -1,0 +1,217 @@
+
+
+body { 
+  margin: 8px;
+	  color:  #00394d;
+	background-color:  rgb(125, 183, 248);
+}
+
+
+.MAIN_T {
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 125%;
+	font-weight: bold;
+	color: rgb(88, 88, 88);
+ }
+
+ 
+
+.CLOK {
+
+	text-align: center;
+	font-family: consolas, monospace;
+	font-size: 140%;
+	font-weight: bolder;
+	color: rgb(88, 88, 88);
+	background-color: rgb(169, 253, 85);
+	/*
+  width: 80%;
+	margin-left: 10%;
+	*/
+
+}
+
+.ACLOK {
+
+	text-align: center;
+	font-family: consolas, monospace;
+	font-size: 140%;
+	font-weight: bolder;
+	color: rgb(255, 217, 4);
+	background-color: rgb(105, 68, 0);
+	/*
+  width: 80%;
+	margin-left: 10%;
+	*/
+
+}
+
+
+.BCLOK {
+
+	text-align: center;
+	font-family: consolas, monospace;
+	font-size: 140%;
+	font-weight: bolder;
+	color: rgb(4, 217, 255);
+	background-color: rgb(19, 0, 105);
+	/*
+  width: 80%;
+	margin-left: 10%;
+	*/
+
+}
+
+
+
+
+
+
+.main {
+	  color:  #00394d;
+		background-color: rgb(125, 183, 248);
+	}
+
+.mainBLUE {
+	color:  #00394d;
+background-color: #97e5ff;
+	}
+
+.mainGRAY {
+				color:  #00394d;
+			background-color: rgb(216, 216, 216);
+				}
+	
+
+.mainGREEN {
+					color:  #00394d;
+				background-color: rgb(172, 255, 176);
+					}
+
+.mainBLACK {
+						color:  #fdfbfb;
+					background-color: rgb(2, 2, 2);
+						}
+
+	.mainLTBLUE {
+							color:  #1b1157;
+						background-color: rgb(125, 183, 248);
+							}
+
+.persfin {
+	  padding: 8px;
+
+	  color:  #004d00;
+  background-color:   #aef7ca;
+
+		}
+		
+.history {
+			padding: 8px;
+	
+			color:  rgb(77, 75, 67);
+		background-color:   #fffd9e;
+	
+			}
+
+.media {
+				padding: 8px;
+		
+				color:  rgb(77, 71, 67);
+			background-color:   #e0e0e0;
+		
+				}
+	
+.section {
+		  font-family: Verdana, Geneva, sans-serif;
+	  font-size: 175%;
+	  font-weight: bold;
+		}	  
+
+.smallfont {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10%;
+		}
+
+span.seven {
+			font-family: Verdana, Geneva, sans-serif;
+			font-size: 72%;
+			font-weight: bold;
+	}
+
+
+span.six {
+	  font-family: Verdana, Geneva, sans-serif;
+	  font-size: 65%;
+	  font-weight: bold;
+}
+
+span.sixHL {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 65%;
+	font-weight: bold;
+	color: #0e0e0e;
+	background-color: #ffbca8;
+}
+
+span.five {
+	  font-family: Verdana, Geneva, sans-serif;
+	  font-size: 80%;
+		font-weight: normal;
+				
+}
+
+p.four {
+	  font-family: Verdana, Geneva, sans-serif;
+	  font-size: 80%;
+}
+
+span.three {
+	  font-family: Verdana, Geneva, sans-serif;
+	  font-size: 80%;
+	  font-weight: normal;
+	  font-style: italic;
+}
+
+p.two {
+	  font-family: Verdana, Geneva, sans-serif;
+	  font-size: 140%;
+	  font-weight: bold;
+}
+
+p.one {
+	  font-family: Verdana, Geneva, sans-serif;
+	  font-size: 140%;
+}
+
+p.twoTOP {
+	    text-align: center;
+	  font-family: Verdana, Geneva, sans-serif;
+	  font-size: 115%;
+		font-weight: bold;
+		color: rgb(88, 88, 88);
+}
+
+p.twoTOPright {
+	text-align: right;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 115%;
+font-weight: bold;
+color: rgb(88, 88, 88);
+}
+
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+
+
